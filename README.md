@@ -1,4 +1,4 @@
-MVP - AgendAi
+# MVP - AgendAi
 
 Visão Geral
 
@@ -37,3 +37,89 @@ Empresas podem definir o sistema de preços para cada serviço oferecido.
 6. Comunicação Direta
 
 Implementação de um sistema de chat ao vivo ou mensagens diretas para facilitar a comunicação entre usuários e empresas.
+
+
+
+# Backlog - AgendAi
+
+1. Funcionalidades Essenciais (Prioridade Alta)
+
+Autenticação e Cadastro
+
+
+
+Cadastro de Empresas
+
+
+
+Cadastro de Funcionários e Serviços
+
+
+
+Suporte para Múltiplos Idiomas
+
+
+
+Integração com GPS
+
+
+
+Sistema de Preços Personalizado
+
+
+
+Chat ao Vivo ou Mensagens Diretas
+
+
+2. Funcionalidades de Experiência do Usuário (Prioridade Média)
+
+Agendamento de Serviços
+
+
+
+Escolha de Profissionais
+
+
+
+Edição e Cancelamento de Agendamentos
+
+
+
+Agenda da Empresa
+
+
+
+Lembretes de Agendamentos
+
+
+
+Histórico de Agendamentos
+
+
+
+Adicionar fotos a empresas e funcionários
+
+Alterações em Tempo Real
+
+3. Funcionalidades Avançadas e Diferenciais (Prioridade Baixa)
+
+Promoções e Descontos
+
+
+
+Sugestão de Horários Disponíveis
+
+
+
+Avaliação e Classificação de Serviços
+
+
+
+Confirmação de Agendamentos
+
+
+
+Relatórios
+
+
+
