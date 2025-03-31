@@ -60,10 +60,6 @@ Suporte para Múltiplos Idiomas
 
 
 
-Integração com GPS
-
-
-
 Sistema de Preços Personalizado
 
 
@@ -116,6 +112,10 @@ Avaliação e Classificação de Serviços
 
 
 Confirmação de Agendamentos
+
+
+
+CustomExceptionMiddlware
 
 
 
