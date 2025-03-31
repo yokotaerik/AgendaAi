@@ -95,7 +95,7 @@ Histórico de Agendamentos
 
 Adicionar fotos a empresas e funcionários
 
-Alterações em Tempo Real
+Alterações em Tempo Real da agenda
 
 3. Funcionalidades Avançadas e Diferenciais (Prioridade Baixa)
 
