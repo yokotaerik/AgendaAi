@@ -85,8 +85,8 @@ Agenda da Empresa
 
 
 
-Lembretes de Agendamentos
 
+Confirmação de Agendamentos
 
 
 Histórico de Agendamentos
@@ -114,10 +114,7 @@ Avaliação e Classificação de Serviços
 Confirmação de Agendamentos
 
 
-
-CustomExceptionMiddlware
-
-
+Lembretes de Agendamentos
 
 Relatórios
 
